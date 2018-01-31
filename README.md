@@ -19,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-`DevcampViewTool::Renderer.copyright 'Dallin Moak', 'copyright message'` yeilds this:
+`DmoakPracticeGem::Renderer.copyright 'Dallin Moak', 'copyright message'` yeilds this:
 * © 2018 | __Dallin Moak__ | copyright message
 
 ## Development
