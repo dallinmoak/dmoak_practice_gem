@@ -19,7 +19,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`DevcampViewTool::Renderer.copyright 'Dallin Moak', 'copyright message'` yeilds this:
+* © 2018 | __Dallin Moak__ | copyright message
 
 ## Development
 
