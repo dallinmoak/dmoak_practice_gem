@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides deberated HTML data for Rails applications.}
-  spec.homepage      = "https://github.com/dallinmoak/[repo]"
+  spec.homepage      = "https://github.com/dallinmoak/dmoak_practice_gem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
